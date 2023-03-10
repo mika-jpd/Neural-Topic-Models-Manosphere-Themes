@@ -1,4 +1,5 @@
 import pandas as pd
+import re
 
 # for chunk in pd.read_json("ndjson/reddit.ndjson", lines=True, chunksize=10000):
 #     df = chunk.reset_index()
@@ -8,14 +9,16 @@ import pandas as pd
 #             f.write(f"{text}\n")
 
 
-with open("subreddits/ForeverUnwanted.txt", "r") as f:
-    with open("subreddits/ForeverUnwanted2.txt", "w") as f2:
+with open("subreddits/Incels.txt", "r") as f:
+    with open("subreddits/Incels2.txt", "w") as f2:
         for line in f:
             words = line.split(" ")
             if len(words) > 128: 
                 continue
-            elif len(words) < 20:
+            if len(words) < 20:
                 continue
+
+            line = re.sub(r'http\S+', '', line)
             if "[removed]" not in line and "[deleted]" not in line:
                 f2.write(line)
 
