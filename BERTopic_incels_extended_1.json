@@ -1,0 +1,542 @@
+[
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": null,
+            "min_topic_size": 10,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": -0.14437168660825733,
+            "diversity": 0.7679611650485437
+        },
+        "Computation Time": 57.240275382995605
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": null,
+            "min_topic_size": 25,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": -0.10726969119614334,
+            "diversity": 0.7492836676217765
+        },
+        "Computation Time": 51.00104808807373
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": null,
+            "min_topic_size": 50,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": -0.04179228964749067,
+            "diversity": 0.7196319018404908
+        },
+        "Computation Time": 46.68428564071655
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": null,
+            "min_topic_size": 75,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": -0.0020698533028827935,
+            "diversity": 0.6392523364485981
+        },
+        "Computation Time": 51.42857384681702
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": null,
+            "min_topic_size": 100,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.011842347466977217,
+            "diversity": 0.580952380952381
+        },
+        "Computation Time": 52.5906777381897
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 10,
+            "min_topic_size": 10,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": -0.006806845830887295,
+            "diversity": 0.46
+        },
+        "Computation Time": 87.4128725528717
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 10,
+            "min_topic_size": 25,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": -0.013072839179449916,
+            "diversity": 0.37
+        },
+        "Computation Time": 59.14231038093567
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 10,
+            "min_topic_size": 50,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": -0.017532417016635243,
+            "diversity": 0.37
+        },
+        "Computation Time": 54.29659986495972
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 10,
+            "min_topic_size": 75,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": -0.00643639185295942,
+            "diversity": 0.37
+        },
+        "Computation Time": 57.94750690460205
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 10,
+            "min_topic_size": 100,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": -0.010031836407403233,
+            "diversity": 0.38
+        },
+        "Computation Time": 54.90807390213013
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 25,
+            "min_topic_size": 10,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.010065820441362262,
+            "diversity": 0.464
+        },
+        "Computation Time": 84.74069833755493
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 25,
+            "min_topic_size": 25,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.009541190895024969,
+            "diversity": 0.412
+        },
+        "Computation Time": 58.88230586051941
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 25,
+            "min_topic_size": 50,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.00010253445925954424,
+            "diversity": 0.384
+        },
+        "Computation Time": 53.778186559677124
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 25,
+            "min_topic_size": 75,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.005590126001773842,
+            "diversity": 0.38
+        },
+        "Computation Time": 54.34198331832886
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 25,
+            "min_topic_size": 100,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": -0.0003194572448947324,
+            "diversity": 0.348
+        },
+        "Computation Time": 58.69133281707764
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 50,
+            "min_topic_size": 10,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.02034090954512196,
+            "diversity": 0.516
+        },
+        "Computation Time": 84.1738851070404
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 50,
+            "min_topic_size": 25,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.026359669274147565,
+            "diversity": 0.498
+        },
+        "Computation Time": 58.84800148010254
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 50,
+            "min_topic_size": 50,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.024152977108041828,
+            "diversity": 0.496
+        },
+        "Computation Time": 52.893420457839966
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 50,
+            "min_topic_size": 75,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.018228457901122274,
+            "diversity": 0.496
+        },
+        "Computation Time": 57.47332954406738
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 50,
+            "min_topic_size": 100,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.020478484787817237,
+            "diversity": 0.474
+        },
+        "Computation Time": 52.790040016174316
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 75,
+            "min_topic_size": 10,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.020308909957589057,
+            "diversity": 0.5853333333333334
+        },
+        "Computation Time": 84.60116934776306
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 75,
+            "min_topic_size": 25,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.020442260449947937,
+            "diversity": 0.5266666666666666
+        },
+        "Computation Time": 57.29468822479248
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 75,
+            "min_topic_size": 50,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.013544076446195681,
+            "diversity": 0.54
+        },
+        "Computation Time": 52.38967561721802
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 75,
+            "min_topic_size": 75,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.008251151238510836,
+            "diversity": 0.5706666666666667
+        },
+        "Computation Time": 56.76671600341797
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 75,
+            "min_topic_size": 100,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.015765179898670257,
+            "diversity": 0.5773333333333334
+        },
+        "Computation Time": 53.6208930015564
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 100,
+            "min_topic_size": 10,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.010113043837290598,
+            "diversity": 0.627
+        },
+        "Computation Time": 86.90893077850342
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 100,
+            "min_topic_size": 25,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.01040257849717709,
+            "diversity": 0.589
+        },
+        "Computation Time": 56.68194532394409
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 100,
+            "min_topic_size": 50,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.0008632300351767871,
+            "diversity": 0.62
+        },
+        "Computation Time": 56.99092745780945
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 100,
+            "min_topic_size": 75,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.0003723860006885099,
+            "diversity": 0.631
+        },
+        "Computation Time": 57.17085409164429
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "BERTopic",
+        "Params": {
+            "embedding_model": "all-MiniLM-L6-v2",
+            "nr_topics": 100,
+            "min_topic_size": 100,
+            "diversity": null,
+            "verbose": true,
+            "calculate_probabilities": false
+        },
+        "Scores": {
+            "npmi": 0.012256379332429674,
+            "diversity": 0.5752941176470588
+        },
+        "Computation Time": 46.828202962875366
+    }
+]

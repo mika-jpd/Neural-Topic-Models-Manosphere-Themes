@@ -1,0 +1,97 @@
+[
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "Top2Vec",
+        "Params": {
+            "hdbscan_args": {
+                "min_cluster_size": 15,
+                "metric": "euclidean",
+                "cluster_selection_method": "eom"
+            },
+            "reduction": true,
+            "nr_topics": 10
+        },
+        "Scores": {
+            "npmi": -0.1600470102094905,
+            "diversity": 0.96
+        },
+        "Computation Time": 1194.341154575348
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "Top2Vec",
+        "Params": {
+            "hdbscan_args": {
+                "min_cluster_size": 15,
+                "metric": "euclidean",
+                "cluster_selection_method": "eom"
+            },
+            "reduction": true,
+            "nr_topics": 20
+        },
+        "Scores": {
+            "npmi": -0.23205979683152655,
+            "diversity": 0.89
+        },
+        "Computation Time": 1166.4473271369934
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "Top2Vec",
+        "Params": {
+            "hdbscan_args": {
+                "min_cluster_size": 15,
+                "metric": "euclidean",
+                "cluster_selection_method": "eom"
+            },
+            "reduction": true,
+            "nr_topics": 30
+        },
+        "Scores": {
+            "npmi": -0.2064239659960237,
+            "diversity": 0.91
+        },
+        "Computation Time": 1132.8187155723572
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "Top2Vec",
+        "Params": {
+            "hdbscan_args": {
+                "min_cluster_size": 15,
+                "metric": "euclidean",
+                "cluster_selection_method": "eom"
+            },
+            "reduction": true,
+            "nr_topics": 40
+        },
+        "Scores": {
+            "npmi": -0.26100336239409827,
+            "diversity": 0.82
+        },
+        "Computation Time": 1129.8350148200989
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "Top2Vec",
+        "Params": {
+            "hdbscan_args": {
+                "min_cluster_size": 15,
+                "metric": "euclidean",
+                "cluster_selection_method": "eom"
+            },
+            "reduction": true,
+            "nr_topics": 50
+        },
+        "Scores": {
+            "npmi": -0.25112036852653696,
+            "diversity": 0.84
+        },
+        "Computation Time": 1133.1752498149872
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "CTM_CUSTOM",
+        "Params": {
+            "n_components": 10,
+            "contextual_size": 768,
+            "num_data_loader_workers": 0,
+            "bow_size": 1997
+        },
+        "Scores": {
+            "npmi": -0.09682970609323242,
+            "diversity": 0.86
+        },
+        "Computation Time": 3813.7840452194214
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "CTM_CUSTOM",
+        "Params": {
+            "n_components": 20,
+            "contextual_size": 768,
+            "num_data_loader_workers": 0,
+            "bow_size": 1997
+        },
+        "Scores": {
+            "npmi": -0.05243977003303975,
+            "diversity": 0.81
+        },
+        "Computation Time": 3832.6513657569885
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "CTM_CUSTOM",
+        "Params": {
+            "n_components": 30,
+            "contextual_size": 768,
+            "num_data_loader_workers": 0,
+            "bow_size": 1997
+        },
+        "Scores": {
+            "npmi": -0.030922979685721663,
+            "diversity": 0.7033333333333334
+        },
+        "Computation Time": 3826.124735355377
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "CTM_CUSTOM",
+        "Params": {
+            "n_components": 40,
+            "contextual_size": 768,
+            "num_data_loader_workers": 0,
+            "bow_size": 1997
+        },
+        "Scores": {
+            "npmi": -0.01764962060192852,
+            "diversity": 0.61
+        },
+        "Computation Time": 3830.0686275959015
+    },
+    {
+        "Dataset": "incels",
+        "Dataset Size": 71506,
+        "Model": "CTM_CUSTOM",
+        "Params": {
+            "n_components": 50,
+            "contextual_size": 768,
+            "num_data_loader_workers": 0,
+            "bow_size": 1997
+        },
+        "Scores": {
+            "npmi": -0.02201759693033918,
+            "diversity": 0.566
+        },
+        "Computation Time": 3839.438457250595
+    }
+]
