@@ -4,7 +4,9 @@ Analysis of manosphere forums using Deep Neural Network based Topic Models
 
 *I will be reorganizing the folder structure, refactoring the code and adding comments so that the project is easier to understand once I have the time !*
 
-**Note: as our project deals with online masculine communities, some of the posts mentioned in this project contain disturbing material.**
+**Note 1: as our project deals with online masculine communities, some of the posts mentioned in this project contain disturbing material.**
+
+**Note 2: Data and model weights folders are missing !**
 
 ## Abstract 
 
