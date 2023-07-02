@@ -1,4 +1,4 @@
-# Application of Neural Topic Models for Exploration of Themes in Online Communities
+# Application of Neural Topic Models for Exploration of Themes in Manosphere Communities
 
 Analysis of manosphere forums using Deep Neural Network based Topic Models
 
