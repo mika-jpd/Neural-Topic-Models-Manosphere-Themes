@@ -9,7 +9,7 @@ Analysis of manosphere forums using Deep Neural Network based Topic Models
 
 **Note 2: Data and model weights folders are missing !**
 
-This is the final project for the course Machine Learning Practical (INFR11132) taken during my masters at the University of Edinburgh which I completed with Dmitrii Tiron and Nicholas Zhang.
+This is the final project for the course Machine Learning Practical (INFR11132) taken during my masters at the University of Edinburgh which I completed with [Dmitrii Tiron](https://www.linkedin.com/in/dmitrii-tiron/) and [Nicholas Zhang](https://www.linkedin.com/in/nicholas-zhang-8b63bb207/).
 
 ## Abstract 
 
