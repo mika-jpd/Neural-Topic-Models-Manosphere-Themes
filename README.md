@@ -6,6 +6,7 @@ Analysis of manosphere forums using Deep Neural Network based Topic Models
 
 ## Project Organization
 **Note 1: as our project deals with online masculine communities, some of the posts mentioned in this project contain disturbing material.**
+
 **Note 2: Data and model weights folders are missing !**
 
 This is the final project for the course Machine Learning Practical (INFR11132) taken during my masters at the University of Edinburgh which I completed with Dmitrii Tiron and Nicholas Zhang.
